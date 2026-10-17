@@ -1,3 +1,7 @@
+<!-- readme-visual-refresh:banner -->
+![GOSIF_phenology — hand-drawn project banner](assets/readme/banner.svg)
+<!-- /readme-visual-refresh:banner -->
+
 # GOSIF Phenology Project
 
 ## Overview
@@ -43,4 +47,8 @@ Instructions on how to run the code and process the data.
 List of contributors to the project.
 
 ## License
-Specify the license under which the project is distributed. 
+Specify the license under which the project is distributed.
+
+<!-- readme-visual-refresh:artwork-source -->
+[Editable banner artwork · Excalidraw](assets/readme/banner.excalidraw)
+<!-- /readme-visual-refresh:artwork-source -->
